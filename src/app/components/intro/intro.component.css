@@ -1,27 +1,24 @@
 .container {
   padding-top: 1%;
-  margin-left: 15%;
+  margin-left: 18%;
 }
 
-.intro-words h2 {
-  padding-top: 5%;
+h2 {
+  padding-top: 8%;
   text-align: center;
 }
 
-.intro-words h1 {
+h1 {
   text-align: center;
 }
 
-.intro-words p {
-  padding-top: 5%;
+p {
+  padding-top: 3%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   text-align: center;
 }
 
 .self {
   max-width: 60%;
   height: auto;
-}
-
-.about {
-  padding-top: 1%;
 }
