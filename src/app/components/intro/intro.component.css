@@ -1,12 +1,19 @@
 .container {
   padding-top: 1%;
+  margin-left: 15%;
 }
 
 .intro-words h2 {
+  padding-top: 5%;
   text-align: center;
 }
 
 .intro-words h1 {
+  text-align: center;
+}
+
+.intro-words p {
+  padding-top: 5%;
   text-align: center;
 }
 
