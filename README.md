@@ -1,2 +1,2 @@
 # JasonXuProfile
-Check out my ersonal webpage at https://jason-xu96.github.io/jason-xu-profile/
+This webpage is currently under construction https://jason-xu96.github.io/jason-xu-profile/
