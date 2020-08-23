@@ -9,11 +9,12 @@ h2 {
 }
 
 h1 {
+  font-size: 350%;
   text-align: center;
 }
 
 p {
-  padding-top: 3%;
+  padding-top: 5%;
   font-family: "Helvetica Neue", Arial, sans-serif;
   text-align: center;
 }
